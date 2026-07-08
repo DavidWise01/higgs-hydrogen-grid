@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 301
+slug  : higgs-hydrogen-grid
+seal  : dfc2939c428c5f136f28c29a52889cb9496b8d19323ef1e9049bd20800d2ea25
+prev  : 5d255a02143aa72929c3c8818093ffc447a8a87dc20199dbd87c8bbdb83c4e81
+link  : 464448c53c6ee9f96ed891230e34a4fd17700fbfeec869ff72f0aae2329221cd
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
